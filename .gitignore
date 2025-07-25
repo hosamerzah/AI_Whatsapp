@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# WhatsApp Session Data
+# IMPORTANT: Never commit your session folder to a public repository!
+listener_test_session_v4_roadmap/
+
+# Configuration and Logs
+admin_config.json
+outreach_prompts.json
+*.log
+interaction_logs/
+
+# Other
+.idea/
+*.swp

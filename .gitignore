@@ -14,6 +14,12 @@ venv/
 # IMPORTANT: Never commit your session folder to a public repository!
 listener_test_session_v4_roadmap/
 
+# WhatsApp Session Data
+# IMPORTANT: Never commit your session folder to a public repository!
+listener_test_session_v5_multiplatform/
+tokens/ 
+
+
 # Configuration and Logs
 admin_config.json
 outreach_prompts.json

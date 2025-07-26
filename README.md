@@ -46,8 +46,8 @@ All required Python libraries are listed in the `requirements.txt` file.
 1.  **Clone the repository:**
     Open your terminal or command prompt and run:
     ```bash
-    git clone <URL_of_your_GitHub_repository>
-    cd <repository_folder_name>
+    git clone  https://github.com/hosamerzah/AI_Whatsapp
+    cd AI_Whatsapp
     ```
 
 2.  **Install Python dependencies:**
